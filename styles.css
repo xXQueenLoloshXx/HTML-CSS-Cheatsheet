@@ -25,3 +25,6 @@ td {
 	border-bottom: 1px solid turquoise;
 	padding: 5px;
 }
+.last {
+	border-bottom: none;
+}
