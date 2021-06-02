@@ -1,1 +1,27 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: "Lucida Console", Courier, monospace;
+}
+h1,
+h2 {
+	text-align: center;
+	padding: 5px;
+}
+h2 {
+	color: GreenYellow;
+}
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid Fuchsia;
+}
+th {
+	background: Indigo;
+	padding: 5px;
+}
+td {
+	border-bottom: 1px solid turquoise;
+	padding: 5px;
+}
