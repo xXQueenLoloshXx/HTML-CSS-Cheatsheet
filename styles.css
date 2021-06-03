@@ -28,3 +28,8 @@ td {
 .last {
 	border-bottom: none;
 }
+.bg {
+	background: turquoise;
+	font-weight: bold;
+	color: black;
+}
